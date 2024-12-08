@@ -22,3 +22,13 @@ QR Code Generator, PyQt6 tabanlı basit ve etkili bir QR kod oluşturma uygulama
    ```bash
    pip install PyQt6 segno
 
+## Kullanım
+
+    "Label" kutucuğuna QR kodunda saklamak istediğiniz metni girin.
+    "Scale" kutucuğuna QR kod ölçeğini belirlemek için bir değer girin (varsayılan: 10).
+    Generate butonuna basarak QR kodunuzu oluşturun.
+    Ön izleme penceresinde QR kodunuzu görüntüleyin.
+    "Save" butonuna basarak QR kodunu kaydedin.
+
+## Lisans
+
