@@ -31,4 +31,13 @@ QR Code Generator, PyQt6 tabanlı basit ve etkili bir QR kod oluşturma uygulama
     "Save" butonuna basarak QR kodunu kaydedin.
 
 ## Lisans
+Creative Commons Sıfır (CC0) Evrensel Lisansı, telif haklarına sahip kişilerin kendi eserleri üzerindeki tüm telif ve ilgili haklarından gönüllü olarak feragat etmesini sağlar. Bu lisans, eserin kamu malı olarak kullanılmasına, herhangi bir yasal kısıtlama veya telif hakkı iddiası olmaksızın, ticari veya ticari olmayan her türlü amaçla serbestçe kopyalanmasına, değiştirilmesine, dağıtılmasına ve yeniden kullanılmasına olanak tanır. Eser sahibi, bu feragati herhangi bir yasal koruma veya gelecekteki hak talepleri olmaksızın, tamamen kalıcı ve geri alınamaz bir şekilde yapmayı kabul eder.
+
+CC0, aynı zamanda, feragatın yasal olarak geçersiz veya uygulanamaz olduğu durumlar için bir yedek lisans sağlar. Bu durumda, eserin, telif hakları sahibinin sağladığı bir lisans kapsamında kullanılmasına olanak tanır. Ancak, bu lisans eser üzerinde patent veya marka haklarını kapsamaz ve eseri "olduğu gibi" sağlayarak, kullanımına dair herhangi bir garanti sunmaz. Bu nedenle, eser kullanıcılarının gerekli izin ve hakları kendi başlarına alması gerekebilir.
+
+
+## İletişim
+Herhangi bir sorun veya öneriniz için bizimle iletişime geçin:  mkamilt@gmail.com
+
+
 
