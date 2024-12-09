@@ -16,11 +16,15 @@ QR Code Generator, PyQt6 tabanlı basit ve etkili bir QR kod oluşturma uygulama
 - PyQt6
 - segno
 
-## Kurulum
+## Kurulum ve çalıştırma
 
 1. **Aşağıdaki kodu yazıp talimatları izleyin**:
    ```bash
    makepkg -si
+   
+2. **Kurulum tamamlandıktan sonra şu şekilde çalıştırın**:
+   ```bash
+   qrgen
 
 ## Kullanım
 
