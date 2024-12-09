@@ -18,9 +18,9 @@ QR Code Generator, PyQt6 tabanlı basit ve etkili bir QR kod oluşturma uygulama
 
 ## Kurulum
 
-1. **Gereklilikleri yükleyin**:
+1. **Aşağıdaki kodu yazıp talimatları izleyin**:
    ```bash
-   pip install PyQt6 segno
+   makepkg -si
 
 ## Kullanım
 
