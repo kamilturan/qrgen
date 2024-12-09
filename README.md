@@ -28,11 +28,10 @@ QR Code Generator, PyQt6 tabanlı basit ve etkili bir QR kod oluşturma uygulama
 
 ## Kullanım
 
-    "Label" kutucuğuna QR kodunda saklamak istediğiniz metni girin.
-    "Scale" kutucuğuna QR kod ölçeğini belirlemek için bir değer girin (varsayılan: 10).
-    Generate butonuna basarak QR kodunuzu oluşturun.
-    Ön izleme penceresinde QR kodunuzu görüntüleyin.
-    "Save" butonuna basarak QR kodunu kaydedin.
+"Label" kutucuğuna QR kodunda saklamak istediğiniz metni girin.
+"Scale" kutucuğuna QR kod ölçeğini belirlemek için bir değer girin (varsayılan: 10).
+"Generate" butonuna basarak QR kodunuzu oluşturun.
+"Save" butonuna basarak QR kodunu kaydedin.
 
 ## Lisans
 Creative Commons Sıfır (CC0) Evrensel Lisansı, telif haklarına sahip kişilerin kendi eserleri üzerindeki tüm telif ve ilgili haklarından gönüllü olarak feragat etmesini sağlar. Bu lisans, eserin kamu malı olarak kullanılmasına, herhangi bir yasal kısıtlama veya telif hakkı iddiası olmaksızın, ticari veya ticari olmayan her türlü amaçla serbestçe kopyalanmasına, değiştirilmesine, dağıtılmasına ve yeniden kullanılmasına olanak tanır. Eser sahibi, bu feragati herhangi bir yasal koruma veya gelecekteki hak talepleri olmaksızın, tamamen kalıcı ve geri alınamaz bir şekilde yapmayı kabul eder.
